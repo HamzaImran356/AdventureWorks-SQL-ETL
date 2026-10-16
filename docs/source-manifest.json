@@ -1,0 +1,79 @@
+{
+  "source_archive": "SQL ddl.rar",
+  "archive_sha256": "71fc01151429b7a129d095524f29fc5cc0352b66c238db9678e69ce826bdaef1",
+  "normalization": "SQL exports decoded to UTF-8; line endings and trailing whitespace normalized. SQL statements unchanged.",
+  "files": [
+    {
+      "original_file": "ddlperson.sql",
+      "path": "sql/ddl/ddlperson.sql",
+      "archive_file_sha256": "784dc33c5c91cde00d01dbfc1844166caa37de24eb1a922c58b5a59c024db0b5",
+      "utf8_file_sha256": "fdcfbffe78da3274d9296fe1cd0c033c4183d5e6e685c3e9acbcc0d2c8e40016"
+    },
+    {
+      "original_file": "ddlproduction.sql",
+      "path": "sql/ddl/ddlproduction.sql",
+      "archive_file_sha256": "7b5b3c30fb6ea16d90b252d8d09355aa6f21e14342207956cfc4b6a7150eae61",
+      "utf8_file_sha256": "f04d3e0bbe8f15a3cbde55db88c74b0058e0c7ff2b25d09f7dbeb4feec07b365"
+    },
+    {
+      "original_file": "ddlpurchasing.sql",
+      "path": "sql/ddl/ddlpurchasing.sql",
+      "archive_file_sha256": "a2d61e309b3c15db9d3b1aa00c755620896dd5ad5225bd58b8bbff08ca234afc",
+      "utf8_file_sha256": "aeef3d409c536c6f5767bee5858bd3594e7bebbc15a0b67e0c393f87d3c9b974"
+    },
+    {
+      "original_file": "ddlsales.sql",
+      "path": "sql/ddl/ddlsales.sql",
+      "archive_file_sha256": "e62f3ba470c9bb231bc07a87a3b6962cf57220a08f241c1df69313343230a689",
+      "utf8_file_sha256": "3b4b893a91f7bb910cf319fd9925f8cedc42130fffb18a08255c19dd61a5f15a"
+    },
+    {
+      "original_file": "FullLoadAdventureWorks.sql",
+      "path": "sql/full-load/FullLoadAdventureWorks.sql",
+      "archive_file_sha256": "4b80bc5666613d9249d4aae263b3550fb831543bf1cb4b21c5fcb8253b083380",
+      "utf8_file_sha256": "acbf96a56db65f84427feb334f27eef33e8bb5e18f1bc61f8fd3da9013c6ce9f"
+    },
+    {
+      "original_file": "IncrementalLoad_purchaseOrderDetails.sql",
+      "path": "sql/incremental/IncrementalLoad_purchaseOrderDetails.sql",
+      "archive_file_sha256": "04db998f891c5fbbd435d55d0d5420c75eedf437980cdd1a0800c87e96538d25",
+      "utf8_file_sha256": "34325368e1eec7bea08f8249a6ce09473bbf8a57b4d28212cf97cd64802ae747"
+    },
+    {
+      "original_file": "IncrementalLoad_purchaseOrderHeader.sql",
+      "path": "sql/incremental/IncrementalLoad_purchaseOrderHeader.sql",
+      "archive_file_sha256": "5f314509a66b4a7c0990ca5956a1c1d1ce2ae76cd4137c0a6a731a60eea30e2e",
+      "utf8_file_sha256": "c2151bc9ddd578e1fee1a520496b9cd1d3602154443890740de3d8e58a1de9cb"
+    },
+    {
+      "original_file": "IncrementalLoad_SalesCurrencyRate.sql",
+      "path": "sql/incremental/IncrementalLoad_SalesCurrencyRate.sql",
+      "archive_file_sha256": "f37aa476b340fea0fc3d437ea9f3b4f93f8fc39058729098474dd69194b51e32",
+      "utf8_file_sha256": "99558f2dd217a29a2bb488d24c437705f9027f387806d86c59c25a401f77d574"
+    },
+    {
+      "original_file": "IncrementalLoad_SalesOrderDetail.sql",
+      "path": "sql/incremental/IncrementalLoad_SalesOrderDetail.sql",
+      "archive_file_sha256": "6f9ee0478a48de76ba2833807a4f2999f792b061892a67c3fe29bc04a09b095f",
+      "utf8_file_sha256": "116a1facc36a44db06ff627e8816188eef578baccc8ca4cafe4f055472e38159"
+    },
+    {
+      "original_file": "RunAllLoadProcedures.sql",
+      "path": "sql/orchestration/RunAllLoadProcedures.sql",
+      "archive_file_sha256": "c88dcc0e8fc8d7535473b86814854348631df9a99718f3a4ed24a05deaaa7e47",
+      "utf8_file_sha256": "76477884192addf05e021616966ff2ddaf41ce0e8d57e1e453356f837470b55c"
+    },
+    {
+      "original_file": "RunAllLoadProcedures1.sql",
+      "path": "sql/orchestration/RunAllLoadProcedures1.sql",
+      "archive_file_sha256": "a87294b0ab050c414492598c86e3820e855db759b53bb484d901f479be5396fd",
+      "utf8_file_sha256": "0e424066aec849c1f755402ac3ca1d709146dd24ba0293b92d785e457a566706"
+    },
+    {
+      "original_file": "SalesOrderHeader.sql",
+      "path": "sql/incremental/SalesOrderHeader.sql",
+      "archive_file_sha256": "b24387f75b40ef316c1f23310d00ea84aca0b99aa2bc0506ad188112d28c2eb7",
+      "utf8_file_sha256": "48c498142dd13bc785d19e3ad937b58cf886e06f55bf308c9b031d03aa210fc5"
+    }
+  ]
+}
